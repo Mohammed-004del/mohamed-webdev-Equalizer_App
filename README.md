@@ -35,7 +35,7 @@ https://username.github.io/equalizer-landing-page/
 ---
 
 ## 📸 Screenshot  
-![Screenshot](images/equalizer.jpg)
+![Screenshot](images/equalizer.png)
 
 ---
 
