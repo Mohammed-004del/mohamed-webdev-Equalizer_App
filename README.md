@@ -40,10 +40,10 @@ The page highlights the app’s features such as advanced EQ controls, treble & 
 ## 📁 Folder Structure  
 ```
 equalizer-landing-page/
-│── index.html
-│── style.css
-│── /images
-│     └── eq-image.jpg
+├── index.html          # Main HTML structure
+├── style.css           # Styling with responsive design
+└── images/             # Images folder
+    └── eq-image.jpg    # Phone mockup image
 
 ```
 
@@ -52,7 +52,7 @@ equalizer-landing-page/
 ## ⚙️ Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/YourUsername/equalizer-landing-page.git
+git clone https://github.com/Mohammed-004del/mohamed-webdev-Equalizer_App.git
 ```
 
 Open the project locally:  
