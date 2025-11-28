@@ -10,15 +10,13 @@ The page highlights the app’s features such as advanced EQ controls, treble & 
 ---
 
 ## 🌐 Live Demo  
-🔗 **Live Preview:** *(Add your GitHub Pages link here)*  
-Example:  
-https://username.github.io/equalizer-landing-page/
+🔗 **Live Preview:**  https://username.github.io/equalizer-landing-page/
 
 ---
 
 ## 🛠️ Tech Stack  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io-badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Font Awesome](https://img.shields.io/badge/-FontAwesome-528DD7?logo=fontawesome&logoColor=white&style=for-the-badge)  
 
 ---
