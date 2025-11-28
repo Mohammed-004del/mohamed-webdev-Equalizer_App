@@ -44,6 +44,7 @@ equalizer-landing-page/
 │── style.css
 │── /images
 │     └── eq-image.jpg
+
 ```
 
 ---
