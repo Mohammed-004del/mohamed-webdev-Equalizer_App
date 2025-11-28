@@ -44,6 +44,7 @@ equalizer-landing-page/
 ├── style.css           # Styling with responsive design
 └── images/             # Images folder
     └── eq-image.jpg    # Phone mockup image
+    └── equalizer.png   # Landing page screenshot
 
 ```
 
