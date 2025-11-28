@@ -10,7 +10,7 @@ The page highlights the app’s features such as advanced EQ controls, treble & 
 ---
 
 ## 🌐 Live Demo  
-🔗 **Live Preview:**  https://username.github.io/equalizer-landing-page/
+🔗 **Live Preview:** https://mohammed-004del.github.io/mohamed-webdev-Equalizer_App/
 
 ---
 
